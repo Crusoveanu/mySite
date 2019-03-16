@@ -25,6 +25,7 @@
       "mySite/1.0.0": {
         "dependencies": {
           "LibraryData": "1.0.0",
+          "LibraryServices": "1.0.0",
           "Microsoft.AspNetCore": "2.0.4",
           "Microsoft.AspNetCore.Mvc": "2.0.4",
           "Microsoft.AspNetCore.Mvc.Razor.ViewCompilation": "2.0.4",
@@ -1886,12 +1887,21 @@
         "compile": {
           "LibraryData.dll": {}
         }
+      },
+      "LibraryServices/1.0.0": {
+        "dependencies": {
+          "LibraryData": "1.0.0"
+        },
+        "compile": {
+          "LibraryServices.dll": {}
+        }
       }
     },
     ".NETFramework,Version=v4.6.1/win7-x86": {
       "mySite/1.0.0": {
         "dependencies": {
           "LibraryData": "1.0.0",
+          "LibraryServices": "1.0.0",
           "Microsoft.AspNetCore": "2.0.4",
           "Microsoft.AspNetCore.Mvc": "2.0.4",
           "Microsoft.AspNetCore.Mvc.Razor.ViewCompilation": "2.0.4",
@@ -3155,6 +3165,14 @@
         "runtime": {
           "LibraryData.dll": {}
         }
+      },
+      "LibraryServices/1.0.0": {
+        "dependencies": {
+          "LibraryData": "1.0.0"
+        },
+        "runtime": {
+          "LibraryServices.dll": {}
+        }
       }
     }
   },
@@ -4250,6 +4268,11 @@
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
     },
     "LibraryData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryServices/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

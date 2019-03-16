@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Library.Data.Models;
+using System;
 using System.Collections.Generic;
 
 namespace LibraryData.Models
@@ -8,6 +9,6 @@ namespace LibraryData.Models
         public int Id { get; set; }
         public decimal Fees { get; set; }
         public DateTime Created { get; set; }
-        public virtual IEnumerable<Checkout> CheckOuts { get; set; }
+        public virtual IEnumerable<Checkoutt> CheckOuts { get; set; }
     }
 }

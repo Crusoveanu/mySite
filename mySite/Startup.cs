@@ -3,7 +3,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using LibraryData;
-using Microsoft.EntityFrameworkCore; 
+using Microsoft.EntityFrameworkCore;
+using LibraryServices;
 
 namespace mySite
 {
@@ -20,6 +21,9 @@ namespace mySite
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddSingleton(Configuration);
+            services.AddScoped<ILibraryAsset, LibraryAssetService>();
+            services.AddScoped<ICheckout, CheckoutService>();
 
             services.AddDbContext<LIbraryContext>(options => options.UseSqlServer(Configuration.GetConnectionString("LIbraryConnection")));
         }

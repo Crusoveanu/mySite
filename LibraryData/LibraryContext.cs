@@ -1,4 +1,5 @@
-﻿using LibraryData.Models;
+﻿using Library.Data.Models;
+using LibraryData.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace LibraryData
@@ -9,7 +10,7 @@ namespace LibraryData
 
         public virtual DbSet<Book> Books { get; set; }
         public virtual DbSet<Video> Videos { get; set; }
-        public virtual DbSet<Checkout> Checkouts { get; set; }
+        public virtual DbSet<Checkoutt> Checkouts { get; set; }
         public virtual DbSet<CheckoutHistory> CheckoutHistories { get; set; }
         public virtual DbSet<LibraryBranch> LibraryBranches { get; set; }
         public virtual DbSet<BranchHours> BranchHours { get; set; }

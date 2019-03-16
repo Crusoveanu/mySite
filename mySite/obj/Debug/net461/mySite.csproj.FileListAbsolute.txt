@@ -1,3 +1,8 @@
+C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.csprojAssemblyReference.cache
+C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.exe.config
+C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.csproj.CoreCompileInputs.cache
+C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.AssemblyInfoInputs.cache
+C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.AssemblyInfo.cs
 C:\Users\hy\Desktop\mySite\mySite\bin\Debug\net461\mySite.exe.config
 C:\Users\hy\Desktop\mySite\mySite\bin\Debug\net461\mySite.deps.json
 C:\Users\hy\Desktop\mySite\mySite\bin\Debug\net461\mySite.exe
@@ -309,12 +314,9 @@ C:\Users\hy\Desktop\mySite\mySite\bin\Debug\net461\System.Xml.XmlSerializer.dll
 C:\Users\hy\Desktop\mySite\mySite\bin\Debug\net461\System.Xml.XPath.dll
 C:\Users\hy\Desktop\mySite\mySite\bin\Debug\net461\System.Xml.XPath.XDocument.dll
 C:\Users\hy\Desktop\mySite\mySite\bin\Debug\net461\LibraryData.dll
+C:\Users\hy\Desktop\mySite\mySite\bin\Debug\net461\LibraryServices.dll
 C:\Users\hy\Desktop\mySite\mySite\bin\Debug\net461\LibraryData.pdb
-C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.csprojAssemblyReference.cache
-C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.exe.config
-C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.csproj.CoreCompileInputs.cache
-C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.AssemblyInfoInputs.cache
-C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.AssemblyInfo.cs
+C:\Users\hy\Desktop\mySite\mySite\bin\Debug\net461\LibraryServices.pdb
 C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.csproj.CopyComplete
 C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.exe
 C:\Users\hy\Desktop\mySite\mySite\obj\Debug\net461\mySite.pdb

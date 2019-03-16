@@ -2181,6 +2181,19 @@
         "runtime": {
           "bin/placeholder/LibraryData.dll": {}
         }
+      },
+      "LibraryServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "LibraryData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LibraryServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryServices.dll": {}
+        }
       }
     },
     ".NETFramework,Version=v4.6.1/win7-x86": {
@@ -4239,6 +4252,19 @@
         },
         "runtime": {
           "bin/placeholder/LibraryData.dll": {}
+        }
+      },
+      "LibraryServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "LibraryData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LibraryServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryServices.dll": {}
         }
       }
     }
@@ -8503,11 +8529,17 @@
       "type": "project",
       "path": "../LibraryData/LibraryData.csproj",
       "msbuildProject": "../LibraryData/LibraryData.csproj"
+    },
+    "LibraryServices/1.0.0": {
+      "type": "project",
+      "path": "../LibraryServices/LibraryServices.csproj",
+      "msbuildProject": "../LibraryServices/LibraryServices.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.6.1": [
       "LibraryData >= 1.0.0",
+      "LibraryServices >= 1.0.0",
       "Microsoft.AspNetCore >= 2.0.4",
       "Microsoft.AspNetCore.Mvc >= 2.0.4",
       "Microsoft.AspNetCore.Mvc.Razor.ViewCompilation >= 2.0.4",
@@ -8553,6 +8585,9 @@
           "projectReferences": {
             "C:\\Users\\hy\\Desktop\\mySite\\LibraryData\\LibraryData.csproj": {
               "projectPath": "C:\\Users\\hy\\Desktop\\mySite\\LibraryData\\LibraryData.csproj"
+            },
+            "C:\\Users\\hy\\Desktop\\mySite\\LibraryServices\\LibraryServices.csproj": {
+              "projectPath": "C:\\Users\\hy\\Desktop\\mySite\\LibraryServices\\LibraryServices.csproj"
             }
           }
         }
