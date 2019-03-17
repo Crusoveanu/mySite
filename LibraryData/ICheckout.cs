@@ -13,15 +13,15 @@ namespace LibraryData
         void Add(Checkoutt newCheckout);
         IEnumerable<CheckoutHistory> GetCheckoutHistory(int id);
         void PlaceHold(int assetId, int libraryCardId);
-        void CheckoutItem(int id, int libraryCardId);
-        void CheckInItem(int id, int libraryCardId);
-        Checkoutt GetLatestCheckout(int id);
-        int GetNumberOfCopies(int id);
-        bool IsCheckedOut(int id);
+        void CheckoutItem(int assetId, int libraryCardId);
+        void CheckInItem(int assetId);
+        Checkoutt GetLatestCheckout(int assetId);
+        int GetNumberOfCopies(int assetId);
+        bool IsCheckedOut(int assetId);
 
-        string GetCurrentHoldPatron(int id);
-        string GetCurrentHoldPlaced(int id);
-        string GetCurrentPatron(int id);
+        string GetCurrentHoldPatron(int assetId);
+        string GetCurrentHoldPlaced(int assetId);
+        string GetCurrentPatron(int assetId);
         IEnumerable<Hold> GetCurrentHolds(int id);
 
         void MarkLost(int id);

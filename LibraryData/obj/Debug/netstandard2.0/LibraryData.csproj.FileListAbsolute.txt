@@ -6,3 +6,11 @@ C:\Users\hy\Desktop\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.Asse
 C:\Users\hy\Desktop\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfo.cs
 C:\Users\hy\Desktop\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.dll
 C:\Users\hy\Desktop\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.pdb
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\bin\Debug\netstandard2.0\LibraryData.deps.json
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\bin\Debug\netstandard2.0\LibraryData.dll
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\bin\Debug\netstandard2.0\LibraryData.pdb
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.csproj.CoreCompileInputs.cache
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfoInputs.cache
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfo.cs
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.dll
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.pdb

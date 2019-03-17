@@ -10,3 +10,15 @@ C:\Users\hy\Desktop\mySite\LibraryServices\obj\Debug\netstandard2.0\LibraryServi
 C:\Users\hy\Desktop\mySite\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.csproj.CopyComplete
 C:\Users\hy\Desktop\mySite\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.dll
 C:\Users\hy\Desktop\mySite\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.pdb
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\bin\Debug\netstandard2.0\LibraryServices.deps.json
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\bin\Debug\netstandard2.0\LibraryServices.dll
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\bin\Debug\netstandard2.0\LibraryServices.pdb
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\bin\Debug\netstandard2.0\LibraryData.dll
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\bin\Debug\netstandard2.0\LibraryData.pdb
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.csprojAssemblyReference.cache
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.csproj.CoreCompileInputs.cache
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.AssemblyInfoInputs.cache
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.AssemblyInfo.cs
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.csproj.CopyComplete
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.dll
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.pdb

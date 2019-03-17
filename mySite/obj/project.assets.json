@@ -8558,11 +8558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hy\\Desktop\\mySite\\mySite\\mySite.csproj",
+      "projectUniqueName": "D:\\Work - IT\\C#\\MVC\\AspNet\\mySite\\mySite\\mySite.csproj",
       "projectName": "mySite",
-      "projectPath": "C:\\Users\\hy\\Desktop\\mySite\\mySite\\mySite.csproj",
+      "projectPath": "D:\\Work - IT\\C#\\MVC\\AspNet\\mySite\\mySite\\mySite.csproj",
       "packagesPath": "C:\\Users\\hy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hy\\Desktop\\mySite\\mySite\\obj\\",
+      "outputPath": "D:\\Work - IT\\C#\\MVC\\AspNet\\mySite\\mySite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Xamarin\\NuGet\\",
@@ -8583,11 +8583,11 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "C:\\Users\\hy\\Desktop\\mySite\\LibraryData\\LibraryData.csproj": {
-              "projectPath": "C:\\Users\\hy\\Desktop\\mySite\\LibraryData\\LibraryData.csproj"
+            "D:\\Work - IT\\C#\\MVC\\AspNet\\mySite\\LibraryData\\LibraryData.csproj": {
+              "projectPath": "D:\\Work - IT\\C#\\MVC\\AspNet\\mySite\\LibraryData\\LibraryData.csproj"
             },
-            "C:\\Users\\hy\\Desktop\\mySite\\LibraryServices\\LibraryServices.csproj": {
-              "projectPath": "C:\\Users\\hy\\Desktop\\mySite\\LibraryServices\\LibraryServices.csproj"
+            "D:\\Work - IT\\C#\\MVC\\AspNet\\mySite\\LibraryServices\\LibraryServices.csproj": {
+              "projectPath": "D:\\Work - IT\\C#\\MVC\\AspNet\\mySite\\LibraryServices\\LibraryServices.csproj"
             }
           }
         }
