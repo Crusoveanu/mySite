@@ -14,3 +14,4 @@ D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryDa
 D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfo.cs
 D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.dll
 D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.pdb
+D:\Work - IT\C#\MVC\AspNet\mySite\LibraryData\obj\Debug\netstandard2.0\LibraryData.csprojAssemblyReference.cache

@@ -25,7 +25,33 @@ namespace mySite.Controllers
                 NumberOfAssets = _branch.GetAssets(branch.Id).Count(),
                 NumberOfPatrons = _branch.GetPatrons(branch.Id).Count(),
             });
-            return View();
+
+            var model = new BranchIndexModel()
+            {
+                Branches = branches
+            };
+
+            return View(model);
+        }
+
+        public IActionResult Detail(int id)
+        {
+            var branch = _branch.Get(id);
+
+            var model = new BranchDetailModel
+            {
+                Id = branch.Id,
+                Name = branch.Name,
+                Address = branch.Address,
+                Telephone = branch.Telephone,
+                OpenTime = branch.OpenDate.ToString("yyyy-MM-dd"),
+                NumberOfAssets = _branch.GetAssets(branch.Id).Count(),
+                NumberOfPatrons = _branch.GetPatrons(branch.Id).Count(),
+                TotalAssetsValue = _branch.GetAssets(id).Sum(a => a.Cost),
+                ImageUrl = branch.ImageUrl,
+                Hours = _branch.GetBranchHours(id)
+            };
+            return View(model);
         }
     }
 }
